@@ -15,6 +15,9 @@
 
 HW and SW engineering
 
+Hi! I am Dima, and I am an electronic engineer and passionate about technologies, nature, science-art and cycling. 
+
+I have three main focuses: PCB development, industrial automation and IoT, collaboration with artists and my own art projects. 
 
 ### prj
 ----
@@ -26,11 +29,12 @@ HW and SW engineering
 
 ### contacts
 
-* mail
+* [telegram] 
+* dmtshsh@gmail.com
 * [telegram channel] 
-* insta
+* [insta]
 * [linkedin]
-* 
+  
 
 
 
@@ -43,14 +47,13 @@ HW and SW engineering
 
 
 
-
-
+[insta]: https://www.instagram.com/dm_shsh
 [telegram channel]: https://t.me/all_these_things 
 [corrasion]: https://www.cyland.org/made-in-cyland-catalogue/corrasion
 [the measure of chaos]: https://www.cyland.org/made-in-cyland-catalogue/the-measure-of-chaos
 [field]: https://www.cyland.org/made-in-cyland-catalogue/field-
-
-[linkedin]: www.linkedin.com/in/dm-sh
+[linkedin]: https://www.linkedin.com/in/dm-sh
+[telegram]: https://t.me/dmitriy_shi
 
 
 
