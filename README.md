@@ -13,7 +13,7 @@
 
 ### profile
 
-HW and SW engineering for artists
+HW and SW engineering
 
 
 ### prj
@@ -40,49 +40,7 @@ HW and SW engineering for artists
 
 
 
-"And here's to you, <span style="background-color:green">Mrs. Robinson</span>, Jesus loves you more than you will know."
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">DONATE</a>
-</div>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
-<a href="/blog">VIEW THE BLOG</a>
-</div>
-
-
-
-
-
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
-# TODOs:
-
-- <r>TODO:</r> Important thing to do
-- <o>TODO:</o> Less important thing to do
-- <g>DONE:</g> Breath deeply and improve karma
-
-
-<pre>
-hello, this is
-   just an     example
-....
-</pre>
-
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-[Custom foo description](#foo)
 
 
 
