@@ -1,27 +1,30 @@
 
 ![alt text](bact.jpg "bacteria")
-[ [profile](#profile)  ] &nbsp; [ [prj](#prj) ] &nbsp; [ [img](#img) ] &nbsp;  [ [contacts](#contacts) ] 
+[ [profile](#profile)  ] &nbsp; [ [prj](#prj) ] &nbsp; [ [art](#art) ] &nbsp; [ [img](#img) ] &nbsp;  [ [contacts](#contacts) ] 
 
 ----
 
 
 
 ### profile
-
-Hi! I am Dima, and I am an electronic engineer and passionate about technologies, nature, science-art and cycling. 
-
+----
+  Hi! I am Dima, and I am an electronic engineer and passionate about technologies, nature, science-art and cycling. 
 I have three main focuses: PCB development, industrial automation and IoT, collaboration with artists and my own art projects. 
 
-### prj
+###  art
 ----
 * [corrasion] 
 * [the measure of chaos]
 * [field] 
 
+###  prj
+----
+* [PIndustrial - Power Supply + RS-485 HAT for Raspberry] 
+
 
 
 ### contacts
-
+----
 * [telegram] 
 * dmtshsh@gmail.com
 * [telegram channel] 
@@ -32,13 +35,13 @@ I have three main focuses: PCB development, industrial automation and IoT, colla
 
 
 
-
-</div>
-
 ### img
+----
 
 ![alt text](stone1.jpg "Corrasion")
 ![alt text](chaos.jpg "The measure of chaos")
+![alt text](PIndustrial.jpeg "PIndustrial")
+
 
 
 
@@ -49,7 +52,7 @@ I have three main focuses: PCB development, industrial automation and IoT, colla
 [field]: https://www.cyland.org/made-in-cyland-catalogue/field-
 [linkedin]: https://www.linkedin.com/in/dm-sh
 [telegram]: https://t.me/dmitriy_shi
-
+[PIndustrial - Power Supply + RS-485 HAT for Raspberry]: https://www.hackster.io/dm_sh/pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
 
 
 
