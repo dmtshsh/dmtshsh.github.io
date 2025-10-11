@@ -1,7 +1,3 @@
-<div style="background-color:rgba(0, 0, 0, 0.0470588); 
-
-# Shsh
-
 [ [profile](#profile)  ] &nbsp; [ [prj](#prj) ] &nbsp; [ [img](#img) ] &nbsp;  [ [contacts](#contacts) ] 
 
 ----
