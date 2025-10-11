@@ -1,15 +1,12 @@
+
+![alt text](bact.jpg "bacteria")
 [ [profile](#profile)  ] &nbsp; [ [prj](#prj) ] &nbsp; [ [img](#img) ] &nbsp;  [ [contacts](#contacts) ] 
 
 ----
 
 
 
-
-
-
 ### profile
-
-HW and SW engineering
 
 Hi! I am Dima, and I am an electronic engineer and passionate about technologies, nature, science-art and cycling. 
 
@@ -21,7 +18,7 @@ I have three main focuses: PCB development, industrial automation and IoT, colla
 * [the measure of chaos]
 * [field] 
 
-### img
+
 
 ### contacts
 
@@ -38,8 +35,10 @@ I have three main focuses: PCB development, industrial automation and IoT, colla
 
 </div>
 
+### img
 
-
+![alt text](stone1.jpg "Corrasion")
+![alt text](chaos.jpg "The measure of chaos")
 
 
 
@@ -53,5 +52,4 @@ I have three main focuses: PCB development, industrial automation and IoT, colla
 
 
 
-![alt text](stone1.jpg "Title")
-![alt text](chaos.jpg "Title")
+
