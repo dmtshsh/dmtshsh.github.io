@@ -8,7 +8,7 @@
 
 ### profile
 ----
-  Hi! I’m Dima — an electronic engineer passionate about technology, nature, sci-art, and cycling. 
+    Hi! I’m Dima — an electronic engineer passionate about technology, nature, sci-art, and cycling. 
   My main focuses are PCB development, industrial automation, and IoT, as well as collaborations with artists and my own creative projects.
 
 ###  art
