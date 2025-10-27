@@ -1,5 +1,5 @@
 
-![alt text](bact.jpg "bacteria")
+![alt text](img/bact.jpg "bacteria")
 [ [profile](#profile)  ] &nbsp; [ [prj](#prj) ] &nbsp; [ [art](#art) ] &nbsp; [ [img](#img) ] &nbsp;  [ [contacts](#contacts) ] 
 
 ----
@@ -7,40 +7,86 @@
 
 
 ### profile
-----
+
   Hi! I’m Dima — an electronic engineer passionate about technology, nature, sci-art, and cycling. 
 My main focuses are PCB development, industrial automation, and IoT, as well as collaborations with artists and my own creative projects.
 
+---
+
 ###  art
-----
+
+##### as engineer and artist
 * [corrasion] 
 * [the measure of chaos]
 * [field] 
+##### as engineer
+* [bacteria as a service]
+
+---
 
 ###  prj
-----
+
+##### electronics design
+
 * [PIndustrial - Power Supply + RS-485 HAT for Raspberry] 
 
+##### lighthouse museum projects
+* [lighthouse lamp changer restoration](#lighthouse-lamp-changer-restoration)
+* [weather station](#weather-station)
+* [light characteristic demo installation](#light-characteristic-demo-installation)
 
+
+---
 
 ### contacts
-----
+
 * [telegram] 
 * dmtshsh@gmail.com
 * [telegram channel] 
 * [insta]
 * [linkedin]
   
+---
+
+##### lighthouse lamp changer restoration
+
+- mechanics restoration, cleaning, and lubrication
+- electronic control system design and programming
+- integration with the museum weather station for change counting. 
+It is more than 9000 changes now!
+
+![lamp changer](/img/lamp_changer1.jpg ){: style="height:800px"}    ![lamp changer](/img/lamp_changer2.jpg ){: style="height:800px"}
 
 
+---
 
+##### weather station
 
-### img
+Old soviet weather station restoration:
+- mechanics restoration with original parts preservation and usage
+- new electronics design for signal acquisition from old sensors
+- server and local PC programming for data storage and visualisation
+
+![station](/img/station1.jpg ){: style="height:800px"}    ![station](/img/station4.jpg ){: style="height:800px"}
+
+---
+#### light characteristic demo installation
+
+Interactive installation showing different light characteristics. The visitor can choose a real local lighthouse on the touchscreen, read a caption about it, and observe its light characteristic on a real lens lantern:
+- programming
+- user interface design
+- lens lantern modification for custom multicolor LED light
+
+![character](/img/character1.jpeg ){: style="height:800px"}    ![character](/img/character2.jpeg ){: style="height:800px"}
+
 ----
 
-![alt text](stone1.jpg "Corrasion")
-![alt text](chaos.jpg "The measure of chaos")
-![alt text](PIndustrial.jpeg "PIndustrial")
+### img
+
+
+![alt text](/img/stone1.jpg "Corrasion")
+![alt text](/img/chaos.jpg "The measure of chaos")
+![alt text](/img/PIndustrial.jpeg "PIndustrial")
 
 
 
@@ -52,7 +98,6 @@ My main focuses are PCB development, industrial automation, and IoT, as well as 
 [field]: https://www.cyland.org/made-in-cyland-catalogue/field-
 [linkedin]: https://www.linkedin.com/in/dm-sh
 [telegram]: https://t.me/dmitriy_shi
-[PIndustrial - Power Supply + RS-485 HAT for Raspberry]: https://www.hackster.io/dm_sh/pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
-
-
-
+[PIndustrial - Power Supply + RS-485 HAT for Raspberry]: https://www.hackster.io/dm_sh/
+[bacteria as a service]: https://annamartynenko.ru/project/2025-random
+pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
