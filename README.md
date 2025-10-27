@@ -55,7 +55,7 @@ My main focuses are PCB development, industrial automation, and IoT, as well as 
 - integration with the museum weather station for change counting. 
 It is more than 9000 changes now!
 
-![lamp changer](/img/lamp_changer1.jpg ){: style="height:800px"}    ![lamp changer](/img/lamp_changer2.jpg ){: style="height:800px"}
+![lamp changer](/img/lamp_changer1.jpg ){: style="height:400px"}    ![lamp changer](/img/lamp_changer2.jpg ){: style="height:400px"}
 
 
 ---
@@ -67,7 +67,7 @@ Old soviet weather station restoration:
 - new electronics design for signal acquisition from old sensors
 - server and local PC programming for data storage and visualisation
 
-![station](/img/station1.jpg ){: style="height:800px"}    ![station](/img/station4.jpg ){: style="height:800px"}
+![station](/img/station1.jpg ){: style="height:400px"}    ![station](/img/station4.jpg ){: style="height:400px"}
 
 ---
 #### light characteristic demo installation
@@ -77,7 +77,7 @@ Interactive installation showing different light characteristics. The visitor ca
 - user interface design
 - lens lantern modification for custom multicolor LED light
 
-![character](/img/character1.jpeg ){: style="height:800px"}    ![character](/img/character2.jpeg ){: style="height:800px"}
+![character](/img/character1.jpeg ){: style="height:400px"}    ![character](/img/character2.jpeg ){: style="height:400px"}
 
 ----
 
