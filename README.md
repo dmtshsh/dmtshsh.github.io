@@ -98,6 +98,6 @@ Interactive installation showing different light characteristics. The visitor ca
 [field]: https://www.cyland.org/made-in-cyland-catalogue/field-
 [linkedin]: https://www.linkedin.com/in/dm-sh
 [telegram]: https://t.me/dmitriy_shi
-[PIndustrial - Power Supply + RS-485 HAT for Raspberry]: https://www.hackster.io/dm_sh/
+[PIndustrial - Power Supply + RS-485 HAT for Raspberry]: https://www.hackster.io/dm_sh/pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
 [bacteria as a service]: https://annamartynenko.ru/project/2025-random
 pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
