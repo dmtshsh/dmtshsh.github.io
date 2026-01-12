@@ -18,7 +18,8 @@ My main focuses are PCB development, industrial automation, and IoT, as well as 
 ##### as engineer and artist
 * [corrasion] 
 * [the measure of chaos]
-* [field] 
+* [field]
+  
 ##### as engineer
 * [bacteria as a service]
 
