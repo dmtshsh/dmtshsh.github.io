@@ -22,6 +22,7 @@ My main focuses are PCB development, industrial automation, and IoT, as well as 
   
 ##### as engineer
 * [bacteria as a service]
+* [noise spores]
 
 ---
 
@@ -54,7 +55,7 @@ My main focuses are PCB development, industrial automation, and IoT, as well as 
 - mechanics restoration, cleaning, and lubrication
 - electronic control system design and programming
 - integration with the museum weather station for change counting. 
-It is more than 9000 changes now!
+It is now more than 9,000 changes!
 
 ![lamp changer](/img/lamp_changer1.jpg ){: style="height:400px"}    ![lamp changer](/img/lamp_changer2.jpg ){: style="height:400px"}
 
@@ -101,4 +102,5 @@ Interactive installation showing different light characteristics. The visitor ca
 [telegram]: https://t.me/dmitriy_shi
 [PIndustrial - Power Supply + RS-485 HAT for Raspberry]: https://www.hackster.io/dm_sh/pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
 [bacteria as a service]: https://annamartynenko.ru/project/2025-random
+[noise spores]: https://garagemca.org/ru/open-storage/anna-martynenko-noise-spores
 pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
