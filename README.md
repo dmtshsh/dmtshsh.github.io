@@ -103,4 +103,4 @@ Interactive installation showing different light characteristics. The visitor ca
 [PIndustrial - Power Supply + RS-485 HAT for Raspberry]: https://www.hackster.io/dm_sh/pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
 [bacteria as a service]: https://annamartynenko.ru/project/2025-random
 [noise spores]: https://garagemca.org/ru/open-storage/anna-martynenko-noise-spores
-pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
+
