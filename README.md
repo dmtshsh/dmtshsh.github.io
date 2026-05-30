@@ -24,6 +24,7 @@ My main focuses are PCB development, industrial automation, and IoT, as well as 
 * [bacteria as a service]
 * [noise spores] 
 * [archean memory farm]
+  
 ---
 
 ###  prj
