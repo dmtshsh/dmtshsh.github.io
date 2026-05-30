@@ -22,8 +22,8 @@ My main focuses are PCB development, industrial automation, and IoT, as well as 
   
 ##### as engineer
 * [bacteria as a service]
-* [noise spores]
-
+* [noise spores] 
+* [archean memory farm]
 ---
 
 ###  prj
@@ -92,7 +92,6 @@ Interactive installation showing different light characteristics. The visitor ca
 
 
 
-
 [insta]: https://www.instagram.com/dm_shsh
 [telegram channel]: https://t.me/all_these_things 
 [corrasion]: https://www.cyland.org/made-in-cyland-catalogue/corrasion
@@ -103,4 +102,5 @@ Interactive installation showing different light characteristics. The visitor ca
 [PIndustrial - Power Supply + RS-485 HAT for Raspberry]: https://www.hackster.io/dm_sh/pindustrial-power-supply-rs-485-hat-for-raspberry-3950f0
 [bacteria as a service]: https://annamartynenko.ru/project/2025-random
 [noise spores]: https://garagemca.org/ru/open-storage/anna-martynenko-noise-spores
+[archean memory farm]: https://wheredogsrun.art/en/2026/04/archaean-memory-farm/
 
