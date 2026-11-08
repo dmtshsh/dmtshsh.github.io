@@ -1,3 +1,13 @@
-# theme: jekyll-theme-minimal
-# title: Dmtshsh's projects
-# description: Doing the projects
+title: Dima Sh — electronics & sci-art
+description: Electronic engineer — PCB development, industrial automation, IoT and collaborations with artists.
+url: https://dmtshsh.github.io
+lang: en
+image: /img/bact.jpg
+author: Dima Sh
+
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - .git

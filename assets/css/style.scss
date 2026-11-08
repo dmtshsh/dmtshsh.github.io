@@ -1,0 +1,46 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* two photos side by side, stacked on narrow screens */
+.pair {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.pair p {
+  display: contents;
+}
+.pair img {
+  height: 400px;
+  width: auto;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 6px;
+}
+@media (max-width: 600px) {
+  .pair img {
+    height: auto;
+    width: 100%;
+  }
+}
+
+/* square thumbnail grid */
+.gallery p {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+}
+.gallery img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 6px;
+}
